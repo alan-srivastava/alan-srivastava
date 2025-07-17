@@ -6,10 +6,12 @@
 
 ---
 
-###  Virtual Internship Experience
+### Internship Experience
 
--  **Citi India (via Forage)**  
-  Developed a Java-based real-time stock market risk visualization tool and modeled the loan management workflow using UML diagrams.
+-  **Wyreflow Technologies**  
+  Built and deployed full-stack web applications using MongoDB, Express.js, React.js, and Node.js, ensuring responsive UI and efficient backend logic.
+  Implemented secure user authentication and CRUD-based APIs, integrating real-time data handling with optimized MongoDB queries.
+  Delivered production-ready projects with clean code practices, component-based architecture, and cloud deployment on platforms like Vercel and Render.
 
 -  **Walmart Global Tech India (via Forage)**  
   Built a custom heap data structure in Java to improve shipping logistics and created a modular UML class diagram for a data processor.
